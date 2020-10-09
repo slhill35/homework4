@@ -113,7 +113,7 @@ header p{
 
 .about, .method, .clients, .contact{
   /*Your Code Here*/
-  grid-column: 2/ span 1;
+  grid-column: 2/span 1;
  
 }
 
@@ -126,24 +126,24 @@ header p{
 
 .about, .about-image{
    /*Your Code Here*/
-  grid-row: 2 / span 1;
+  grid-row: 2 /span 1;
 }
 
 .method, .method-image{
    /*Your Code Here*/
-   grid-row: 3 / span 1;
+   grid-row: 3 /span 1;
 }
 
 
 .clients, .clients-image{
     /*Your Code Here*/
-    grid-row: 4 / span 1;
+    grid-row: 4 /span 1;
 }
 
 
 .contact, .contact-image{
     /*Your Code Here*/
-    grid-row: 5 / span 1;
+    grid-row: 5 /span 1;
 }
 
 .text-block{
@@ -172,13 +172,13 @@ align-self: center;
 
   .about, .clients, .method-image, .contact-image{
     /*Your code here:*/
-    grid-column: 3 / span 2;
+    grid-column: 3 /span 2;
   
   }
 
   .about-image, .clients-image, .method, .contact{
     /*Your code here:*/
-    grid-column: 2 / span 2;
+    grid-column: 2 /span 2;
   }
 }
 
